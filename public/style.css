@@ -1,0 +1,118 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+
+.fa-facebook , .fa-google-plus-g , .fa-github ,.fa-twitter{
+    padding: 8px;
+    font-size: 20px;
+    color:#fff;
+    
+}
+.fab:hover{
+    color: rgb(34, 209, 200);
+}
+.bg-theme{
+    background-color: #316DC3;
+}
+.header{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.navbar .navbar-nav li a {
+    color: black !important ;
+    margin: 8px;
+    cursor: pointer;
+    
+    
+
+} 
+
+ .navbar .navbar-nav li a:hover{
+   background-color:#316DC3 !important; 
+   color: white !important ;
+   border-radius: 50px;
+   padding: 8px 16px;
+   cursor: pointer;
+    
+}
+.navbar .navbar-nav .dropdown-menu{
+    cursor: pointer;
+    
+}
+.navbar .navbar-nav .dropdown-menu li{
+    color:rgb(119, 118, 118);
+    padding-left: 10px;
+}
+.navbar .navbar-nav .dropdown-menu li:hover {
+    background-color: #316DC3;
+    color: #fff;
+    
+}
+.news{
+    background-color: #316DC3;
+    color: white;
+    height: 100%;
+}
+.banner{
+    background-color: #dddbdb;
+}
+.work{
+    background-color: rgb(13, 51, 121);
+    font-family: serif;
+}
+.work .row img{
+    width: 40px;
+    height: 40px;
+}
+.work .row h1{
+    font-weight: bold;
+    font-family:fantasy;
+}
+.work .row p{
+    font-weight: bold;
+    font-size: large;
+}
+.project{
+    background-color: #f0ecec;
+}
+.project .card-deck .card img{
+    width: 70px;
+    height: 70px;
+    margin-top: 30px;
+    
+}
+.project .card-deck .card h1{
+    font-size: 20px;
+    color: #316DC3;
+    
+}
+.card.{
+    height: 180px;
+}
+.text-green{
+    color: #316DC3;
+}
+.mb-6{
+    margin-bottom: 200px;
+
+}
+.contact-us-icon a {
+   /*  background-color: #316DC3;
+    border-radius: 400px;
+    padding: 5px; */
+    text-align: center;
+    margin: 3px;
+
+}
+.contact-us-icon a :hover{
+    color: #316dc3 !important;
+}
+.fa-phone-alt, .fa-globe-europe, .fa-envelope  {
+    color: green;
+}
+.footer{
+    background-color: #316DC3;
+}
